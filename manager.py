@@ -1,5 +1,6 @@
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
+import init, Fore
 import os, random
 from time import sleep
 
