@@ -1,6 +1,5 @@
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
-import pickle, pyfiglet
 from colorama import init, Fore
 import os, random
 from time import sleep
